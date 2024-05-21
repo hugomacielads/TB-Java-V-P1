@@ -1,1 +1,4 @@
 .idea
+/out/
+.gitignore
+TB-Java-V-P1.iml
